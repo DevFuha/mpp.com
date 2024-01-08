@@ -1,6 +1,6 @@
 let Client = require('./client').default;
 let clients = [];
-global.ch = `호날두`;
+global.ch = `[channel_name]`;
 
 let n = 0;
 
